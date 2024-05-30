@@ -9,4 +9,5 @@ Tên Trò Chơi : Dodge Cat. Thể loại game: trò chơi phản xạ. Mô tả
 
 
 -------------------------------------------------------------------------------------
-Ở đây chỉ bao gồm 3 files source code và các file resouce
+Ở đây chỉ bao gồm 3 files source code và không bao gồm các resource hay thư viện khác
+
